@@ -44,3 +44,6 @@ A Loja 2 encontra-se em uma posição de "mediocridade". Diferente das outras un
 Fechar a Loja 2 permite realocar recursos para fortalecer a eficiência da Loja 4 e a liderança das Lojas 1 e 3.
 
 Desenvolvido como parte de uma análise estratégica de dados no Challenge Alura Store do Projeto Alura One.
+
+## 🚀 Como Executar
+Execute o notebook `AluraStoreBrasil (2).ipynb` em um ambiente Jupyter Notebook, VS Code ou Google Colab.
