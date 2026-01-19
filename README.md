@@ -46,4 +46,4 @@ Fechar a Loja 2 permite realocar recursos para fortalecer a eficiência da Loja 
 Desenvolvido como parte de uma análise estratégica de dados no Challenge Alura Store do Projeto Alura One.
 
 ## 🚀 Como Executar
-Execute o notebook `AluraStoreBrasil (2).ipynb` em um ambiente Jupyter Notebook, VS Code ou Google Colab.
+Execute o notebook `AluraStoreBrasil.ipynb` em um ambiente Jupyter Notebook, VS Code ou Google Colab.
